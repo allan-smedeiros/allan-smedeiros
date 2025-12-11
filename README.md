@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 <div style="text-align: justify;">
-Me chamo Allan de Medeiros, tenho 25 anos, natural de São Paulo. Atualemente estou estudando ciências de dados e sou bacharel em sistemas de informação pela Faculdade Impacta de Tecnologia. Sou apaixonado por tecnologia, entusiasta pela cultura data-driven e busco sempre aprimorar meus conhecimentos a fim de colaborar para a tomada de decisões baseada em dados.
+Me chamo Allan de Medeiros, tenho 25 anos, natural de São Paulo. Atualmente estou estudando ciências de dados e sou bacharel em sistemas de informação pela Faculdade Impacta de Tecnologia. Sou apaixonado por tecnologia, entusiasta pela cultura data-driven e busco sempre aprimorar meus conhecimentos a fim de colaborar para a tomada de decisões baseada em dados.
 </div>
 
 <h3 align="left">Linguagens e Tecnologias</h3>
