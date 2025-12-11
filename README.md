@@ -3,8 +3,11 @@
 **`Analista de Dados`**
 
 Olá me chamo Allan de Medeiros Silva, tenho 25 anos, natural de São Paulo. Atualemente estou estudando ciências de dados e sou bacharel em sistemas de informação pela Faculdade Impacta de Tecnologia. Sou apaixonado por tecnologia, entusiasta pela cultura data-driven e busco sempre aprimorar meus conhecimentos a fim de colaborar para a tomada de decisões baseada em dados.
+<br>
 
-<h3 align="left">🤖 Linguagens e Tecnologias</h3>
+<h3 align="left">Linguagens e Tecnologias</h3>
+
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="25" alt="python logo"  />
@@ -32,9 +35,10 @@ Olá me chamo Allan de Medeiros Silva, tenho 25 anos, natural de São Paulo. Atu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="25" alt="mongodb logo"  />
 </div>
 
-
+<br>
 
 <h3 align="left">📞 Para falar comigo:</h3>
+<br>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=296329&color:FFF)](mailto:allan.mdsilvaa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=296329&color:FFF)](https://www.linkedin.com/in/allan-smedeiros/)
