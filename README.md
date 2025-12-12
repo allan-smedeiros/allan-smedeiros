@@ -42,7 +42,7 @@ Me chamo Allan de Medeiros, tenho 25 anos, natural de São Paulo. Atualmente est
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=296329&color:FFF)](mailto:allan.mdsilvaa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=296329&color:FFF)](https://www.linkedin.com/in/allan-smedeiros/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=296329&color:FFF)](https://www.instagram.com/allan-smedeiros/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=296329&color:FFF)](https://www.instagram.com/allan.smedeiros/)
 
 
 <picture align="center">
